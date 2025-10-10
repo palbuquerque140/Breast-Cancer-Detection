@@ -2,3 +2,6 @@ venv/
 _pycache_/
 *._pyc
 Data/
+binary_class/
+multi_class/
+unnested/

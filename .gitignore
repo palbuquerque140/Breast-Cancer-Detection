@@ -6,3 +6,7 @@ binary_class/
 multi_class/
 unnested/
 models/
+Binary_Classification/models
+Multi_Class_Classification/models
+multi_class/
+multi_class_undersampling/

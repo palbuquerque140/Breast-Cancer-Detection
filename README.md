@@ -16,4 +16,4 @@ In a binary classification cancer project, the most important metric to analyse 
 
 There were used several different techniques to counter the fact that the dataset was unbalanced, with maligant representing 68% of the data, so class weights to give more importance to the Benign Class as well as Data Augmentation to expose the model to the images in several different ways. Two models were trained and both performed quite similarly. The confusion matrix of both are displayed below:
 
-![Binary Classification CM](Binary_Classification/results/Model_Comparison_CM.png)
+![Binary Classification CM](Binary_Classification\results\Model_Comparison_CM.png)
